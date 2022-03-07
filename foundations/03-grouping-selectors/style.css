@@ -1,0 +1,13 @@
+.BW .YB {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.BW {
+    background-color: black;
+    color: white;
+}
+
+.YB {
+    background-color: yellow;
+}
